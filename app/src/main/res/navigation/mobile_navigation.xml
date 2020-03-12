@@ -40,9 +40,17 @@
         android:name="cz.vasic2000.myapplication.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
     <fragment
         android:id="@+id/aboutDeveloper"
         android:name="cz.vasic2000.myapplication.ui.about.AboutDeveloper"
         android:label="about_developer_fragment"
         tools:layout="@layout/about_developer_fragment" />
+
+    <fragment
+        android:id="@+id/feedBackForm"
+        android:name="cz.vasic2000.myapplication.ui.feedbackform.FeedBackForm"
+        android:label="fragment_feed_back_form"
+        tools:layout="@layout/fragment_feed_back_form" />
+
 </navigation>
