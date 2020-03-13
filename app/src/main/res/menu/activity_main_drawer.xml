@@ -22,11 +22,11 @@
             <item
                 android:id="@+id/nav_callBack"
                 android:icon="@drawable/ic_email_black_24dp"
-                android:title="@string/feedback" />
+                android:title="@string/menu_feedback" />
             <item
                 android:id="@+id/nav_aboutDev"
                 android:icon="@drawable/ic_face_black_24dp"
-                android:title="@string/about_developer" />
+                android:title="@string/menu_about_developer" />
         </menu>
     </group>
 </menu>

@@ -12,8 +12,8 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
-    <string name="about_developer">About developer</string>
-    <string name="feedback">FeedBack</string>
+    <string name="menu_about_developer">About developer</string>
+    <string name="menu_feedback">FeedBack</string>
 
     <string name="telegramm">/@vasyator</string>
     <string name="mail">vasiliychernov.dev@gmail.com</string>
