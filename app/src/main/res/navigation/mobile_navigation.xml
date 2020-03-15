@@ -7,29 +7,29 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="cz.vasic2000.myapplication.ui.home.HomeFragment"
+        android:name="cz.vasic2000.photoBoxApp.ui.home.HomeFragment"
         android:label="@string/menu_home"
         tools:layout="@layout/fragment_home"/>
 
     <fragment
         android:id="@+id/nav_gallery"
-        android:name="cz.vasic2000.myapplication.ui.gallery.GalleryFragment"
+        android:name="cz.vasic2000.photoBoxApp.ui.gallery.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
-        android:name="cz.vasic2000.myapplication.ui.slideshow.SlideshowFragment"
+        android:name="cz.vasic2000.photoBoxApp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
     <fragment
         android:id="@+id/nav_aboutDev"
-        android:name="cz.vasic2000.myapplication.ui.about.AboutDeveloper"
+        android:name="cz.vasic2000.photoBoxApp.ui.about.AboutDeveloper"
         android:label="about_developer_fragment"
         tools:layout="@layout/about_developer_fragment" />
     <fragment
         android:id="@+id/nav_callBack"
-        android:name="cz.vasic2000.myapplication.ui.feedbackform.FeedBackForm"
+        android:name="cz.vasic2000.photoBoxApp.ui.feedbackform.FeedBackForm"
         android:label="fragment_feed_back_form"
         tools:layout="@layout/fragment_feed_back_form" />
 

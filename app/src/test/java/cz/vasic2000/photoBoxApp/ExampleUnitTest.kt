@@ -1,4 +1,4 @@
-package cz.vasic2000.myapplication
+package cz.vasic2000.photoBoxApp
 
 import org.junit.Test
 

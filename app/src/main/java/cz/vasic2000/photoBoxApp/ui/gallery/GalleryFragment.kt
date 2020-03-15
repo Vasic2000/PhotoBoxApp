@@ -1,4 +1,4 @@
-package cz.vasic2000.myapplication.ui.gallery
+package cz.vasic2000.photoBoxApp.ui.gallery
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import cz.vasic2000.myapplication.R
+import cz.vasic2000.photoBoxApp.R
 
 class GalleryFragment : Fragment() {
 
