@@ -30,7 +30,7 @@
     <fragment
         android:id="@+id/nav_callBack"
         android:name="cz.vasic2000.photoBoxApp.ui.feedbackform.FeedBackForm"
-        android:label="fragment_feed_back_form"
+        android:label="@string/menu_feedback"
         tools:layout="@layout/fragment_feed_back_form" />
 
 </navigation>
