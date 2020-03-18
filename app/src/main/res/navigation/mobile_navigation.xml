@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/nav_home"
-        android:name="cz.vasic2000.photoBoxApp.ui.home.HomeFragment"
+        android:name="cz.vasic2000.photoBoxApp.ui.home.SitiesPhoto"
         android:label="@string/menu_home"
-        tools:layout="@layout/fragment_home"/>
+        tools:layout="@layout/fragment_sities_photos"/>
 
     <fragment
         android:id="@+id/nav_gallery"

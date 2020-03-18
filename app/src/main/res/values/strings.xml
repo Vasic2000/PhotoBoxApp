@@ -7,13 +7,11 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
+    <string name="menu_home">Sities photo</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_feedBack">Feed Back</string>
     <string name="menu_aboutDev">About developer</string>
     <string name="menu_slideshow">Slideshow</string>
-
-
 
     <string name="home_second">Home Second</string>
     <string name="menu_about_developer">About developer</string>
@@ -26,6 +24,7 @@
 
 
     <string name="big_text">
+        Covid2019 Ipus mobe./n
         Sed ut perspiciatis,/n
         unde omnis iste natus error/n
         sit voluptatem accusantium doloremque laudantium,/n
