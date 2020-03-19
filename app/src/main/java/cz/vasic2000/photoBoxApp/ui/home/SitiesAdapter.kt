@@ -14,7 +14,7 @@ class SitiesAdapter(var dataList: List<String>?) : RecyclerView.Adapter<SitiesAd
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
         val view: View =
-            LayoutInflater.from(parent.context).inflate(R.layout.item_card, parent, false)
+            LayoutInflater.from(parent.context).inflate(R.layout.item, parent, false)
         return MyViewHolder(view, list)
     }
 
@@ -41,7 +41,5 @@ class SitiesAdapter(var dataList: List<String>?) : RecyclerView.Adapter<SitiesAd
 
             }
         }
-
     }
-
 }

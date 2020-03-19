@@ -33,4 +33,10 @@
         android:label="@string/menu_feedback"
         tools:layout="@layout/fragment_feed_back_form" />
 
+    <fragment
+        android:id="@+id/moscow_SnowFall_2018"
+        android:name="cz.vasic2000.photoBoxApp.ui.moscow_snowfall2018.Moscow_SnowFall_2018"
+        android:label="@string/SnowFall"
+        tools:layout="@layout/fragment_snowfall_2018"/>
+
 </navigation>
